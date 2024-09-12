@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+label {
+    display: inline-block;
+    width: 120px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+table {
+    margin-top: 20px;
+    width: 450px;
+    /* border-collapse: collapse; */
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tfoot td {
+    font-weight: bold;
+}
